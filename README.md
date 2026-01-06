@@ -1,4 +1,7 @@
-# Nitram AI Suite 🚀
+<h1>
+  <img src="https://raw.githubusercontent.com/Pantane1/nitram-ai-suite/blob/main/nitram-gen-1767682032947.png" width="32" style="vertical-align: middle;" />
+  Nitram AI Suite 🚀
+</h1>
 
 Nitram AI Suite is an advanced, multi-modal AI workspace designed for professionals and creators. Built with the latest Gemini 3 and 2.5 series models, it provides a unified interface for reasoning, visual creation, cinematic motion, and real-time voice interaction.
 

